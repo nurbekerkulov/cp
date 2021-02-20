@@ -1,0 +1,1 @@
+/usr/bin/c++  -DLOCAL -g   CMakeFiles/cp.dir/main.cpp.o  -o cp 
